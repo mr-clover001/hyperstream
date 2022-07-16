@@ -1,0 +1,48 @@
+.sidebar{
+    /* background-color: aquamarine; */
+    height: 100%;
+    padding: 12px 0px 0px 38px;
+    line-height: 30px;
+
+}
+.sort-container{
+
+}
+.sort-container-heading{
+    font-size: 13px;
+    padding-bottom: 8px;
+    width: 14vw;
+border-bottom: 1px solid rgba(0, 0, 0, 0.159);
+
+}
+
+.filter-container{
+ margin-top: 12px;
+}
+.genre-container-heading{
+    margin-top: 15px;
+}
+.pt-container-heading{
+    margin-top: 10px;
+}
+
+.sidebar-options{
+    font-size: 14.5px;
+    padding: 0px 8px;
+    color: rgba(88, 86, 86, 0.622);
+}
+.sidebar-options:hover{
+    background-color: rgba(167, 165, 165, 0.096);
+}
+
+.filter-container-heading{
+    font-size: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.159);
+
+}
+
+span{
+    position: absolute;
+    right: 60px;
+}

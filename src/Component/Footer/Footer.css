@@ -1,0 +1,22 @@
+.footer{
+    background-color: #fff !important;
+    line-height: 29px;
+    font-size: 15px;
+    color: rgba(71, 70, 70, 0.436);
+    font-family: "Nunito",sans-serif;
+    padding: 40px 40px 70px 50px;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-between;
+}
+
+
+.footer .thirdFoot .copyright p{
+    margin-right: 5px;
+    
+}
+
+.footer .thirdFoot .copyright{
+    display: flex;
+}
+
