@@ -1,8 +1,8 @@
-# CineFlicks
+# HyperStream
 
 ---
 
-HyperStream is a Game Browse Application
+HyperStream is a Game Browsing Application
 
 ### Prerequisites
 
