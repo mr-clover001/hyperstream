@@ -124,6 +124,6 @@ border: 2px solid #F56C2D !important;
     border: 2px solid white;
     color: white;
 }
-
-
-
+.loginPage .signOut:hover{
+    transform: translateY(-2px) !important ;
+}

@@ -18,7 +18,7 @@ const App = () => {
       if (homeData.length == 0) setHomeData(data["data"]);
     })
     .catch((e) => {
-      console.log(`Fetching error`);
+      console.log(`Fetching an error`);
     });
 
   return (
