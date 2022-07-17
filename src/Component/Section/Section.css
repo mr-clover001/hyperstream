@@ -1,0 +1,38 @@
+.section-data{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+
+
+.card-container{
+    margin: 35px 30px;
+    text-align: center;
+    
+}
+.card-container:hover{
+    transform:translateY(7px);
+}
+
+.card-container img{
+    
+    width: 23rem;
+    
+
+    
+  }
+
+  .card{
+    margin-left: 19px ;
+    text-align: center;
+    width: 23rem;
+ 
+    
+}  
+
+
+
+.card h6{
+    margin-left: 12px;
+}
+
+

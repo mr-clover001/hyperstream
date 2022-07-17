@@ -35,3 +35,14 @@
     
     width: 75%;
 }
+
+/* responsive part  */
+
+
+
+@media (max-width: 1492px) {
+    .main-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
