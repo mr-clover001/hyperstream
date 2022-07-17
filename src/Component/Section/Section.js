@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Section.css";
 import Card from "../Images/IMG2.jpg";
 
-import axios from "axios";
 const Section = (props) => {
   return (
     <>
